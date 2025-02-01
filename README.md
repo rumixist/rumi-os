@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/kernel-project.git
+   git clone https://github.com/rumixist/rumi-os.git
    cd kernel-project
 ```
 2. Build the kernel
