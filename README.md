@@ -37,8 +37,5 @@ Before you begin, ensure you have the following installed:
    make run
 ```
 ## Troubleshooting
-If you encounter issues during the build, ensure the following:
+If you encounter issues during the build, ignore it. This is uselles project, nevermind.
 
--Check for missing dependencies.
--Verify that all paths in the Makefile are correct.
--If the keyboard driver is not working, ensure that the input handling code is properly implemented and the interrupt is set up correctly.
